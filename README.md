@@ -27,14 +27,17 @@ We built an ecosystem to address the dual needs of *clinical accuracy* and *cont
 | **Goal** | Improve Diagnosis & Guide Therapy | Prevent Isolation & Vocal Crisis |
 | **Code Base** | Python/Flask + JS/HTML/Tailwind | Kotlin/Jetpack Compose |
 
+
+Android App ui:
+
+<img width="1233" height="661" alt="Screenshot 2026-01-30 235415" src="https://github.com/user-attachments/assets/61f8d5a7-022f-4a78-abac-516ed50b5152" />
+
 ---
 ui:
 <img width="1881" height="907" alt="Screenshot 2026-01-30 205633" src="https://github.com/user-attachments/assets/5fa2feab-d337-4b14-b7e6-c4f2e219532e" />
 
 
-Android App ui:
 
-<img width="1233" height="661" alt="Screenshot 2026-01-30 235415" src="https://github.com/user-attachments/assets/61f8d5a7-022f-4a78-abac-516ed50b5152" />
 
 
 ## 🛠️ Technical Solution Mapping: MENTIS Requirements Checklist
@@ -108,6 +111,7 @@ This is the demonstration of our advanced analytical capabilities.
 
 ---
 *Created with 🧠 by the MENTIS007 Team.*
+
 
 
 
