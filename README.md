@@ -100,5 +100,10 @@ This is the demonstration of our advanced analytical capabilities.
 
 ---
 *Created with 🧠 by the MENTIS007 Team.*
+Android App ui:
+
+<img width="1233" height="661" alt="Screenshot 2026-01-30 235415" src="https://github.com/user-attachments/assets/61f8d5a7-022f-4a78-abac-516ed50b5152" />
+
+
 
 
