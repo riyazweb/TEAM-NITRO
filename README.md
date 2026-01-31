@@ -6,7 +6,7 @@
 
 <img width="738" height="417" alt="image" src="https://github.com/user-attachments/assets/1cc46dd8-f057-4a4f-aed8-820baa99f3c2" />
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/81d1e9cf-c35f-4620-b829-ef5c3e0ecee1" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/81d1e9cf-c35f-4620-b829-ef5c3e0ecee1" />
 
 View full documentation here:https://drive.google.com/file/d/11i6eddW84dHXXCNOTlk5BTovYDNon8y-/view
 
@@ -100,3 +100,4 @@ This is the demonstration of our advanced analytical capabilities.
 
 ---
 *Created with 🧠 by the MENTIS007 Team.*
+
